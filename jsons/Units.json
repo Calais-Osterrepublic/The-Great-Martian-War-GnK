@@ -5,7 +5,7 @@
 		"movement": 4,
 		"strength": 40,
 		"range": 3,
-		"rangedStrength": 50,
+		"rangedStrength": 30,
 		"uniques": [
 			"Cannot move",
 			"Cannot be purchased",
