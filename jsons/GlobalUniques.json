@@ -2,12 +2,12 @@
 	"name":"Global uniques",
 	"uniques":[
 		"Triggers a [Scouting Wave] event <upon turn end> <after turn number [100]> <before turn number [101]>",
-		"Triggers a [Probing Wave] event <upon turn end> <after turn number [250]> <before turn number [251]>",
-		"Triggers a [Invasion Wave] event <upon turn end> <after turn number [300]> <before turn number [301]>",
+		"Triggers a [Probing Wave] event <upon turn end> <after turn number [300]> <before turn number [301]>",
+		"Triggers a [Invasion Wave] event <upon turn end> <after turn number [350]> <before turn number [351]>",
 
-		"Triggers a [Fallen] event <upon turn end> <after turn number [100]> <with [25]% chance>",
-		"Triggers a [Reinforcements] event <upon turn end> <after turn number [300]> <with [33]% chance>",
-		"Triggers a [Uprising] event <upon turn end> <after turn number [300]> <with [25]% chance>",
-		"Triggers a [Uprising] event <upon turn end> <after turn number [298]> <before turn number [299]>",
+		"Triggers a [Fallen] event <upon turn end> <after turn number [100]> <with [10]% chance>",
+		"Triggers a [Reinforcements] event <upon turn end> <after turn number [350]> <with [33]% chance>",
+		"Triggers a [Uprising] event <upon turn end> <after turn number [350]> <with [25]% chance>",
+		"Triggers a [Uprising] event <upon turn end> <after turn number [348]> <before turn number [349]>",
 	]
 }
